@@ -1,0 +1,333 @@
+{
+    "asset": {
+        "generator": "CAD Exchanger 3.9.1 (cadexchanger.com)",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5125,
+            "count": 8160,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 3104,
+            "type": "VEC3",
+            "max": [
+                0.003100000089034438,
+                0.0023900000378489496,
+                0.0010999999940395356
+            ],
+            "min": [
+                -0.003100000089034438,
+                -0.0023900000378489496,
+                -1.1102230773579207e-19
+            ]
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 3104,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 318,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 110,
+            "type": "VEC3",
+            "max": [
+                -0.0013500000350177289,
+                0.00215000007301569,
+                0.0017500000540167094
+            ],
+            "min": [
+                -0.0016499999910593033,
+                0.0018500000005587936,
+                0.0017000000225380064
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 110,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -0.0
+            ]
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5125,
+            "count": 462,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5126,
+            "count": 140,
+            "type": "VEC3",
+            "max": [
+                0.0020000000949949028,
+                0.0024999999441206457,
+                0.0017500000540167094
+            ],
+            "min": [
+                -0.0020000000949949028,
+                -0.0024999999441206457,
+                0.0002500000118743628
+            ]
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 140,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 32640,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 32640,
+            "byteLength": 37248,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 69888,
+            "byteLength": 37248,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 107136,
+            "byteLength": 1272,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 108408,
+            "byteLength": 1320,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 109728,
+            "byteLength": 1320,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 111048,
+            "byteLength": 1848,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 112896,
+            "byteLength": 1680,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 114576,
+            "byteLength": 1680,
+            "target": 34962
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 116256,
+            "uri": "AA51880.bin"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.7490196228027344,
+                    0.7490196228027344,
+                    0.7490196228027344,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.20000000298023225,
+                    0.20000000298023225,
+                    0.20000000298023225,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.03921568766236305,
+                    0.03921568766236305,
+                    0.03921568766236305,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 1
+                    },
+                    "indices": 0,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 5,
+                        "POSITION": 4
+                    },
+                    "indices": 3,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 8,
+                        "POSITION": 7
+                    },
+                    "indices": 6,
+                    "material": 2
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "children": [
+                1
+            ],
+            "name": "AA51880"
+        },
+        {
+            "children": [
+                2
+            ],
+            "translation": [
+                -0.0003002065350301564,
+                0.011719691567122937,
+                -0.006207347847521305
+            ],
+            "rotation": [
+                5.179640883173529e-16,
+                -6.014242033740096e-16,
+                -2.7755575615628916e-17,
+                1.0
+            ],
+            "name": "PCB Component:1"
+        },
+        {
+            "children": [
+                3
+            ],
+            "name": "PCB Component"
+        },
+        {
+            "children": [
+                4
+            ],
+            "translation": [
+                0.01269999984651804,
+                0.011429999954998494,
+                0.0015699999639764429
+            ],
+            "rotation": [
+                -1.9721522630525297e-31,
+                0.0,
+                2.54710854647775e-33,
+                1.0
+            ],
+            "name": "SOP64P600X175-16N:U$1"
+        },
+        {
+            "children": [
+                5,
+                6,
+                7
+            ],
+            "name": "SOP64P600X175-16N"
+        },
+        {
+            "mesh": 0
+        },
+        {
+            "mesh": 1
+        },
+        {
+            "mesh": 2
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
